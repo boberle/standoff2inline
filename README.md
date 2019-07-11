@@ -45,15 +45,17 @@ When you execute it, you will get:
 
 ## Documentation
 
-Full documentation can be found in the [user guide](user_guide.html) html file.
+Full documentation can be found in the [user_guide.html](user_guide.html) file.
 
-A [Jupyter notebook](user_guide.ipynb) is available for you to play with.
+A Jupyter notebook [user_guide.ipynb](user_guide.ipynb) is available for you to play with.
 
 
 ## Authors
 
 
-Bruno Oberle.  Please contact me at [boberle.com](boberle.com).
+Bruno Oberle.  Please contact me at [boberle.com](http://boberle.com).
+
+See my other projects at [boberle.com](http://boberle.com)!
 
 
 ## License
