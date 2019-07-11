@@ -45,9 +45,9 @@ When you execute it, you will get:
 
 ## Documentation
 
-Full documentation can be found in the [user_guide.html](user_guide.html) file.
+Full documentation can be found in the [doc/user_guide.html](http://htmlpreview.github.com/?https://github.com/boberle/standoff2inline/blob/master/doc/user_guide.html) file.
 
-A Jupyter notebook [user_guide.ipynb](user_guide.ipynb) is available for you to play with.
+A Jupyter notebook [doc/user_guide.ipynb](doc/user_guide.ipynb) is available for you to play with.
 
 
 ## Authors
